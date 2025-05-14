@@ -25,4 +25,4 @@ A thrilling first-person shooter game where you face hordes of zombies. Armed wi
 
 ## Download Assets
 Due to size limits, the `Assets/` folder is hosted externally:  
-[Download Assets Folder](https://drive.google.com/file/d/1kXxNQTo9PwgfMD5Y4qm9_BUIy-qM3SI4/view?usp=drive_link)
+[Download Assets Folder](https://drive.google.com/file/d/1joBAG7LRExcruBIZY_T0ObAxN7XojQd4/view?usp=sharing)
